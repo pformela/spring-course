@@ -6,8 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="04-annotations-xml-registerBean-example" />
+        <module name="05-wiring-beans-example" />
         <module name="04-postconstruct-example" />
+        <module name="06-wiring-multiple-beans-example" />
+        <module name="04-annotations-xml-registerBean-example" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
