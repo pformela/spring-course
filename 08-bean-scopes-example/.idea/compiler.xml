@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="05-wiring-beans-example" />
+        <module name="04-postconstruct-example" />
+        <module name="06-wiring-multiple-beans-example" />
+        <module name="07-assignment-01" />
+        <module name="04-annotations-xml-registerBean-example" />
+        <module name="08-bean-scopes-example" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="03-component-example" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
